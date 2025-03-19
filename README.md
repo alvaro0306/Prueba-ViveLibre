@@ -45,5 +45,3 @@ API simulada
 ```sh
 mvn test
 ```
-
-## Notas
